@@ -24,8 +24,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: PhotoFilterCarousel(), 
-      //TakePictureScreen(camera: camera,),
+      home: //PhotoFilterCarousel(), 
+      TakePictureScreen(camera: camera,),
       debugShowCheckedModeBanner: false,
     );
   }
