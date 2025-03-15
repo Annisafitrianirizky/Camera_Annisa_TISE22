@@ -12,9 +12,9 @@ Berikut adalah hasil jadi dari praktikum 2 dimana kami diminta untuk membuat apl
 
 Hasil Gabungan Praktikum 1 & 2
 
-![prak1](kamera_prak1.jpeg)
+![prak_1](hasil_prak1.jpeg)
 
-![hasil](filter_hasil.jpeg)
+![hasil](hasil_filter.jpeg)
 
 Berikut adalah hasil akhir apabila kedua fitur aplikasi sebelumnya digabungkan, menghasilkan sebuah aplikasi yang dapat mengambil gambar serta menerapkan filter sederhana pada gambar yang telah di foto.
 
